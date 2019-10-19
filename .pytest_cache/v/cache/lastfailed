@@ -1,0 +1,9 @@
+{
+  "tests/test_process.py::test_build_line_dnf[&(A,&(B,&(C,D))]": true,
+  "tests/test_process.py::test_check_negated": true,
+  "tests/test_process.py::test_check_negated[node1-False]": true,
+  "tests/test_process.py::test_check_negated[node2-False]": true,
+  "tests/test_process.py::test_check_negated[node3-False]": true,
+  "tests/test_process.py::test_compute_simplified_predicates[expression_result_values0-expected_result0]": true,
+  "tests/test_process.py::test_fix_nand": true
+}
